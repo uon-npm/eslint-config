@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/uon-npm/eslint-config#readme",
   "peerDependencies": {
-    "eslint": ">= 5"
+    "eslint": ">= 5",
+    "babel-eslint": ">= 9"
   }
 }
